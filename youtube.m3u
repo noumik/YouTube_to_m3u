@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730813637/ei/ZMopZ8a5O9-0kucPx5aBuQU/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/3xcLjc79uww.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51326651/txs/51326650%2C51326651%2C51326652%2C51326653%2C51326654%2C51326655%2C51326656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApARr7A2-Yuv_e5F-89tSwXxdejd_lMMMGLrnbai19lMdrO02FxqGPdhS5gx8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALexMeUDCffuHz-l3FeIfPdh74AWeiOrSpAdS6a7YfIXAiEAkROBmvGCgzfjNGQQ-W_BYNcunXuQ6EVqkYsM7UNNPNE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730813637/ei/ZcopZ6O-JciKkucPlYayiQM/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/_NkIQdyWQeA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324818/txs/51324815%2C51324816%2C51324817%2C51324818/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApATat96lBvYCVGeknp_NY4iz9-pxK_Srq35ARdcZQZT8MNZmGQOlz5T2eWZA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbvBe89yB3ZV8j0DulR-LmmgYHDSbdpiveCHNBQn8hMcCIQDlvM4U6ghHZjwtnT4EVaD9wtL24Sv2Wv0hX5kyB4BiIg%3D%3D/file/index.m3u8
