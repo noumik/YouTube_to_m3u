@@ -1,27 +1,16 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
-
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1893474000/ei/kc0pZ4vBOsG1kucP38W3oQY/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/_NkIQdyWQeA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfbxyDxh0gwcub3iFyTjyWoEmLc_Vyeg96DzG5DclEfYxssB9VRnqRsM3gc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDK4d__HYgkF6sKjwBKpyMxcMdS4mfIfktV2bvDoxXDYCIBhpa3DurwvzV8d6QKYNiQpW9rc-DQ5rVIex3KyrCTjr/file/index.m3u8
+https://www.youtube.com/@NBCNews/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1893474000/ei/ks0pZ7eRJ7qCkucPkbingAU/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/-mvUkiILTqI.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/qtApAa4k1KqWpNL8Eh06o8bq9t2LfNHjyZtMjdb5ECen_roJzpTAi5dF6S5PbIU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgR3li5xFPX6IGjDS-KcqxCX3xEsOhMfz2TJ2edEESo2ECIQC_YUoVyCyIXl8Npe-MVWwuo4RNVOnKpxlEAxmLta9dBg%3D%3D/file/index.m3u8
+https://www.youtube.com/@ABCNews/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1893474000/ei/k80pZ7v2HoGAkucP_d3FqAo/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/iEpJwprxDdk.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51306780/txs/51306780%2C51306781/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAQsP-xGA2HhC5AV9GsNy6lGjjyDvre_77QWjs61jRm_4pfPP7Ig7RVtpCrY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51286684%2C51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbSvCpYO2wH_jMTOUiUXp2t3x7eyySsyt4WaR2IE59twCIBsnU5UlcA2On8cEIH-RzEpjc57wheCACTM2h0kgCWyF/file/index.m3u8
+https://www.youtube.com/@markets/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1893474000/ei/lM0pZ62pDIiLkucPx6fEiQk/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/3xcLjc79uww.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324827/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVs4SNcEkjbrhjq8U-tdQYxfZcR6tdoe607c22WbFhYmlKcbMtEimebJ6JU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIIH-AV-iHAbIW4cXek9jI6VIaVDyMucnRgEQNvNC9v8AiAgsd7hdCwvMd-VyAoiYyzMiHEXKnpwtV2i5oAYHSRHkQ%3D%3D/file/index.m3u8
+https://www.youtube.com/@SkyNews/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1893474000/ei/lM0pZ_KFOZi0kucPvOfUCQ/ip/2603%3A7000%3A2600%3A3328%3A509a%3A7372%3A33a3%3A8772/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVLIBq6VQcxNT0dxCjRAA1KN5omv7EB8RNfIUXhPPY4yV_hYXSpPvjL_aUw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeltllx9K1PgA7HzRPzRJfdBUzl9SHXDiSKaUB1872egCIDT1Ok9ZeYxAPY-9_xPlJTCcbTvLrZJvadToNA_LASWN/file/index.m3u8
+https://www.youtube.com/@aljazeeraenglish/live
